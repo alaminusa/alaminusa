@@ -1,6 +1,7 @@
-![Frontend with React Developer](https://assets.codepen.io/11271262/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1698658190&width=512)
+
 ### Hi there 👋, I'm Al Amin
 #### Frontend with React Developer
+![Frontend with React Developer](https://assets.codepen.io/11271262/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1698658190&width=512)
 
 I am frontend with react web developer doing all things creative to make the web a more unique and awesome place.
 
